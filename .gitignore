@@ -1,0 +1,18 @@
+# Ignore system directories
+Application Data/
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.bash_history
+.config/
+.gitconfig
+.jenkins/
+.keras/
+.lesshst
